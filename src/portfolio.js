@@ -130,15 +130,14 @@ const educationInfo = {
       logo: require("./assets/images/towsonLogo.png"),
       subHeader: "Bachelor of Science in Computer Science",
       duration: "December 2019 - May 2023",
-      desc: "Relevant coursework included Web Development, Software Development, Database Managment.",
-
+      desc: "Relevant coursework included Web Development, Software Development, Database Managment."
     },
     {
       schoolName: "Santa Fe College",
       logo: require("./assets/images/sfLogo.png"),
       subHeader: "Associate in Arts of Science in Computer Science",
       duration: "August 2018 - December 2019",
-      desc: "Preliminary",
+      desc: "Preliminary"
     }
   ]
 };
@@ -285,7 +284,7 @@ const blogSection = {
         "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
     }
   ],
-  display:  false // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Talks Sections
@@ -341,7 +340,7 @@ const contactInfo = {
 
 const twitterDetails = {
   userName: "twitter", //Replace "twitter" with your twitter username without @
-  display: false// Set true to display this section, defaults to false
+  display: false // Set true to display this section, defaults to false
 };
 
 const isHireable = true; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
