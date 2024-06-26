@@ -36,6 +36,10 @@ const socialMediaLinks = {
   github: "https://github.com/yohkaii",
   linkedin: "https://www.linkedin.com/in/adeoluwa-adelekan-b67289196/",
   gmail: "dee.adelekan@gmail.com",
+  gitlab: "",
+  facebook: "",
+  medium: "",
+  stackoverflow: "",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
